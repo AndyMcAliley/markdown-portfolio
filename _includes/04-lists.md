@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+# Coffee status
+1. Becoming, pt 1
+2. Becoming, pt 2
+3. Choices
+4. Flooded
